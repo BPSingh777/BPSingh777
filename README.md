@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithm,Android Development,LLM and Gen AI**
 
 - 📫 How to reach me **pratapsinghbhanu404@gmail.com**
+- 📝 Here is my resume - https://drive.google.com/file/d/1yxwMXi5yFDFRw_9kWcXQrNZkPl2vS9Fe/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
