@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhanu pratap Singh</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate android developer fascinated by Machine Learning And AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpsingh777&label=Profile%20views&color=0e75b6&style=flat" alt="bpsingh777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bpsingh777" alt="bpsingh777" /></a> </p>
 
-- 🔭 I’m currently working on **WorkOut App**
+- 🔭 I’m currently working on **Drowsiness Detection Model TensorFlow**
 
-- 🌱 I’m currently learning **Data Structures and Algorithm,Android Development**
+- 🌱 I’m currently learning **Data Structures and Algorithm,Android Development,LLM and Gen AI**
 
-- 📫 How to reach me **Pr.Bhanu.Singh@gmail.com**
+- 📫 How to reach me **pratapsinghbhanu404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
