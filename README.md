@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Singh</h1>
-<h3 align="center">A passionate Software Developer | Android Enthusiast | Problem Solver</h3>
+<h3 align="center">DevOps Engineer @ Biz2x | A passionate Software Developer | Android Enthusiast |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bpsingh777&label=Profile%20views&color=0e75b6&style=flat" alt="bpsingh777" />
@@ -15,11 +15,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a **recent B.Tech Computer Science graduate from IIIT Una** with hands-on experience in building real-world Android and backend applications. I've interned at Invyu Tech and Prebyte Technologies, where I worked on scalable app features, REST APIs, and cloud integration.
+I'm a **recent B.Tech Computer Science graduate from IIIT Una** with hands-on experience in building real-world Android and backend applications. Currently I am working as a devops engineer at biz2x and I've interned at Invyu Tech and Prebyte Technologies, where I worked on scalable app features, REST APIs, and cloud integration.
 
 ---
 
-- 🔭 I’m currently looking for a **Software Engineer** role (Android | Backend)
+- 🔭 I’m currently looking for **DevOps** and **Software Engineer** role (Android | Backend)
 - 🌱 Actively learning **DSA**, **clean Android architecture**, and **cloud integration**
 - 💬 Ask me about **Kotlin, Firebase, Python, SQL, REST APIs**
 - 📫 Reach me at: **pratapsinghbhanu404@gmail.com**
