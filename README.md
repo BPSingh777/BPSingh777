@@ -28,8 +28,8 @@ Email: pratapsinghbhanu404@gmail.com
 ---
 
 - 🔭 I’m currently looking for **DevOps** and **Software Engineer** role (Android | Backend)
-- 🌱 Actively learning **DSA**, **clean Android architecture**, and **cloud integration**
-- 💬 Ask me about **Kotlin, Firebase, Python, SQL, REST APIs**
+- 🌱 Actively learning **DSA**, **Devops Practices**, and **cloud integration**
+- 💬 Ask me about **Kotlin, Firebase, Python, SQL, REST APIs, K8s, Docker etc.**
 - 📫 Reach me at: **pratapsinghbhanu404@gmail.com**
 - 📝 [View my resume](https://drive.google.com/file/d/1-aubIAVqqXxwPZ-WXT4r9i5V1wNYlI-Z/view?usp=drive_link)
 
