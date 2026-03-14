@@ -15,7 +15,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a **recent B.Tech Computer Science graduate from IIIT Una** with hands-on experience in building real-world Android and backend applications. Currently I am working as a devops engineer at biz2x and I've interned at Invyu Tech and Prebyte Technologies, where I worked on scalable app features, REST APIs, and cloud integration.
+I’m a Computer Science graduate from IIIT Una currently working as an Associate DevOps Engineer at Biz2X Platform Pvt. Ltd., where I focus on building reliable, scalable infrastructure and automation systems that enable faster and safer software delivery.
+
+In my current role, I work extensively on CI/CD pipelines, containerized deployments, and cloud infrastructure, using technologies such as AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Terraform. I enjoy automating complex workflows, improving deployment reliability, and building systems that enhance developer productivity.
+
+Beyond DevOps, I have a strong interest in software engineering and backend systems. I have built applications and services using Python, Java, Kotlin, and RESTful APIs, and I enjoy solving real-world engineering problems through clean, scalable solutions.
+
+I’m currently open to opportunities in DevOps, Platform Engineering, and Software Engineering, where I can contribute to building high-impact, scalable systems.
+
+Email: pratapsinghbhanu404@gmail.com
 
 ---
 
